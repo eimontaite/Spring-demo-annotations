@@ -1,3 +1,0 @@
-"First string"
-"Second string"
-"Third string"
